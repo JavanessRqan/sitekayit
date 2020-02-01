@@ -1,0 +1,2 @@
+# sitekayit
+Basit site kaydolma
